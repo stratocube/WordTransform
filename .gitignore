@@ -1,4 +1,5 @@
 __pycache__*
+network_file.*
 *.pyc
 venv/
 .idea

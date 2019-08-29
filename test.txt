@@ -1,8 +1,0 @@
-splot
-pit
-pot
-spit
-lot
-spot
-lit
-harlequin
