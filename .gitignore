@@ -3,3 +3,4 @@ network_file.*
 *.pyc
 venv/
 .idea
+.eclipse
