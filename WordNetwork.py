@@ -6,7 +6,7 @@ from collections import defaultdict
 import os, sys
 
 os.environ["PATH"] += os.pathsep + 'C:\\Program Files (x86)\\Graphviz2.38\\bin\\'
-DEBUG = False
+DEBUG = True
 
 def load_words():
     words_by_len = {}
