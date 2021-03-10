@@ -231,7 +231,7 @@ class WidgetGallery(QDialog):
 
         timer = QTimer(self)
         timer.timeout.connect(self.advanceProgressBar)
-        timer.start(1000)
+        timer.start(999)
 
 
 if __name__ == '__main__':
